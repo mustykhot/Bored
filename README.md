@@ -1,0 +1,1 @@
+https://boredapi.netlify.app/
