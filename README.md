@@ -1,1 +1,2 @@
-https://boredapi.netlify.app/
+https://mustykhot.github.io/Bored/index.html
+
